@@ -1,0 +1,65 @@
+h3{
+
+    padding-bottom: 50px;
+    padding-top: 10px;
+    padding-left: 50px;
+    
+}
+.no-gutters{
+    height: 500px;
+    padding-left: 60px;
+}
+.w-100{
+    height: 500px;
+   
+}
+.col-md-4{
+    border: 1px solid lightgray;
+    background: rgb(243, 243, 243);
+    padding-left: 100px;
+}
+.no-gutters{
+    padding-right:30px ;
+   
+}
+h5{
+    text-content: center;
+}
+p{
+    color: black;
+    padding-top: 40px;
+    font-size: 30px;
+    font-weight: 600;
+
+}
+.tk{
+    color:red;
+    text-align: center;
+}
+
+.doler{
+    color:green;
+    font-size: 40px;
+    text-align: center;
+    display: inline-block;
+   
+span{
+    text-align: center;
+}
+button{
+font-size: 40px;
+color: blue;
+font-size: 50px;
+
+}
+
+li{
+    list-style: square;
+}
+
+button.btn {
+    border: 1px solid #000;
+    margin-top: 10px;
+    font-size: 30px;
+    color: blue;
+}
